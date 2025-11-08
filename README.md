@@ -38,7 +38,7 @@ The primary dataset used for this analysis is the "ecommerce_data_excel.xlsx" wh
 
 - Microsoft Power BI (Data Cleaning, Data Analysis, Creating Reports)
 
-### Data Cleaning/Data Preparation
+### Data Cleaning
 - Removed duplicates. 
 
 - Handled missing values.
@@ -99,7 +99,7 @@ Worked with some DAX Queries such as:
 
 ```
 
-### Results/Findings/Insights
+### Results
 
 - Sales and profit vary significantly across regions, with California on top,New York on second and Texas on third.
   
