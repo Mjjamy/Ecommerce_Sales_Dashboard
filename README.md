@@ -1,10 +1,5 @@
 # Ecommerce Sales Analysis
 
-### Table Of Contents
-
-
-
----
 
 ## 📚 Table of Contents
 
