@@ -1,9 +1,35 @@
 # Ecommerce Sales Analysis
 
+### Table Of Contents
+
+
+
+---
+
+## 📚 Table of Contents
+
+1. [Project Overview](#project-overview)
+2. [Data Sources](#data-sources)
+3. [Tools](#tools)
+4. [Data Cleaning](#data-cleaning)
+5. [Exploratory Data Analysis](#exploratory-data-analysis)
+6. [Data Analysis](#data-analysis)
+7. [Results](#results)
+8. [Recommendations](#recommendations)
+9. [Limitations](#limitations)
+
+
+---
+
+
+
 ### Project Overview
 ---
 
 Developed an interactive E-commerce Sales Dashboard in Power BI using time-intelligence functions, advanced formatting, and dynamic visuals to analyze YTD performance, category trends, and regional sales. Insights revealed profit growth despite a drop in overall sales and quantity.
+
+<img width="902" height="508" alt="Ecommerce_Sales_Dashboard" src="https://github.com/user-attachments/assets/be4f2b49-c5a5-4830-b1bf-2859339cd2ce" />
+
 
 ### Data Sources
 The primary dataset used for this analysis is the "ecommerce_data_excel.xlsx" which contains information about the sales made by the company.
